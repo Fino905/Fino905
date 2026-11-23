@@ -1,3 +1,8 @@
+
+<!-- Anime Sticker / Avatar di sebelah kanan -->
+<img align="right" src="./assets/sticker.gif" width="130" alt="Avatar Sticker" />
+
+
 <!-- Habib Alfino Pixel Art Banner (BOLDPIXELS & Sticker Style) -->
 <p align="center">
   <a href="https://habib-alfino.my.id" target="_blank">
@@ -16,10 +21,6 @@ Hello everyone, my name is Habib. I am 16 years old and a student at SMKS Branta
 </p>
 
 ---
-
-
-<!-- Anime Sticker / Avatar di sebelah kanan -->
-<img align="right" src="./assets/sticker.gif" width="130" alt="Avatar Sticker" />
 
 <!-- Tech Stack Icons (skillicons) -->
 <p align="left">
