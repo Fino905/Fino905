@@ -1,9 +1,3 @@
-<!-- Habib Alfino Blackhole Singularity Showcase (from habib-alfino.my.id) -->
-<p align="center">
-  <a href="https://habib-alfino.my.id" target="_blank">
-    <img src="./assets/blackhole.svg" width="100%" alt="Habib Alfino - Blackhole Singularity" />
-  </a>
-</p>
 
 ---
 
