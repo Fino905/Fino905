@@ -1,6 +1,3 @@
-
----
-
 <!-- Habib Alfino Snake Game (Blue Protocol) -->
 <p align="center">
   <a href="https://habib-alfino.my.id" target="_blank">
