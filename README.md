@@ -85,5 +85,5 @@
 </p>
 
 <p align="center">
-  <sub>🛰️ <b>COSMIC TRANSMISSION ARCHIVE</b> • <i>HABIB ALFINO // 2026</i> • 🚀</sub>
+  <sub>🛰️ <b>habib-alfino.my.id</sub>
 </p>
