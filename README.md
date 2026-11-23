@@ -23,23 +23,17 @@
 
 <!-- Social Media Badges -->
 <p align="left">
-  <a href="https://youtube.com" target="_blank">
+  <a href="https://www.youtube.com/@federicgfx?si=di_EPbBTCuN4OEa4" target="_blank">
     <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://instagram.com" target="_blank">
+  <a href="https://www.instagram.com/finofebriantohabibal/" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://twitch.tv" target="_blank">
-    <img src="https://img.shields.io/badge/TWITCH-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
   </a>
   <a href="https://discord.com" target="_blank">
     <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="mailto:finofebriantohabibal@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
