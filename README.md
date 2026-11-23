@@ -45,12 +45,10 @@
 
 <br clear="both"/>
 
-<!-- Snake Contribution Grid Animation -->
+<!-- Habib Alfino Blackhole Singularity Showcase (from habib-alfino.my.id) -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fino905/Fino905/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fino905/Fino905/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Fino905/Fino905/output/github-contribution-grid-snake.svg">
-  </picture>
+  <a href="https://habib-alfino.my.id" target="_blank">
+    <img src="./assets/blackhole.svg" width="100%" alt="Habib Alfino - Blackhole Singularity" />
+  </a>
 </p>
  
