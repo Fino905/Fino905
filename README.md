@@ -15,9 +15,11 @@
 Hello everyone, my name is Habib. I am 16 years old and a student at SMKS Brantas Karangkates. I live in Boro Village, Selorejo, Blitar Regency, East Java. In my spare time, I work on various personal projects, such as creating 3D models that I upload to my YouTube channel, Federic Parkerr. Additionally, I develop websites as a way to learn and experiment, and I have experience deploying websites using Vercel's free hosting service. 
 </p>
 
----
+
 <!-- Anime Sticker / Avatar di sebelah kanan -->
 <img align="right" src="./assets/sticker.gif" width="130" alt="Avatar Sticker" />
+
+---
 
 <!-- Tech Stack Icons (skillicons) -->
 <p align="left">
@@ -43,12 +45,3 @@ Hello everyone, my name is Habib. I am 16 years old and a student at SMKS Branta
 </p>
 
 <br clear="both"/>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Fino905&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Fino's GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fino905&layout=compact&langs_count=6&theme=radical" alt="Most Used Languages" />
-  </a>
-</p>
