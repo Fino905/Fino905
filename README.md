@@ -1,4 +1,3 @@
-
 <!-- Habib Alfino Pixel Art Banner (BOLDPIXELS & Sticker Style) -->
 <p align="center">
   <a href="https://habib-alfino.my.id" target="_blank">
@@ -12,21 +11,21 @@
  
 ---
 
-<p> 
+<p align="center"> 
 Hello everyone, my name is Habib. I am 16 years old and a student at SMKS Brantas Karangkates. I live in Boro Village, Selorejo, Blitar Regency, East Java. In my spare time, I work on various personal projects, such as creating 3D models that I upload to my YouTube channel, Federic Parkerr. Additionally, I develop websites as a way to learn and experiment, and I have experience deploying websites using Vercel's free hosting service. 
 </p>
 
----
+<br/>
 
 <!-- Tech Stack Icons (skillicons) -->
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,nextjs,laravel,html,css,py,cs" alt="Tech Stack" />
   </a>
 </p>
 
 <!-- Social Media Badges -->
-<p align="left">
+<p align="center">
   <a href="https://www.youtube.com/@federicgfx?si=di_EPbBTCuN4OEa4" target="_blank">
     <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
@@ -41,4 +40,14 @@ Hello everyone, my name is Habib. I am 16 years old and a student at SMKS Branta
   </a>
 </p>
 
-<br clear="both"/>
+<br/>
+
+<!-- Pinned Repositories -->
+<p align="center">
+  <a href="https://github.com/Fino905/stockify" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fino905&repo=stockify&theme=radical" alt="stockify" />
+  </a>
+  <a href="https://github.com/Fino905/habib-portofolio" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fino905&repo=habib-portofolio&theme=radical" alt="habib-portofolio" />
+  </a>
+</p>
