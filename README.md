@@ -1,7 +1,7 @@
-<!-- Habib Alfino Blackhole Singularity Showcase (from habib-alfino.my.id) -->
+<!-- Habib Alfino Snake Game (Blue Protocol) -->
 <p align="center">
   <a href="https://habib-alfino.my.id" target="_blank">
-    <img src="./assets/blackhole.svg" width="100%" alt="Habib Alfino - Blackhole Singularity" />
+    <img src="./assets/snake.svg" width="100%" alt="Habib Alfino - Blue Snake Game" />
   </a>
 </p>
 
@@ -39,7 +39,6 @@
 
 <br clear="both"/>
 
-
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Fino905&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Fino's GitHub Stats" />
@@ -48,6 +47,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fino905&layout=compact&langs_count=6&theme=radical" alt="Most Used Languages" />
   </a>
 </p>
-
-
- 
