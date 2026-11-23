@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 36" width="100%" height="36" fill="none">
+  <defs>
+    <style>
+      @keyframes twinkle {
+        0%, 100% { opacity: 0.9; }
+        50% { opacity: 0.25; }
+      }
+      @keyframes ufo-float {
+        0%, 100% { transform: translateY(0); }
+        50% { transform: translateY(-2px); }
+      }
+      .tw-1 { animation: twinkle 2s infinite ease-in-out; }
+      .tw-2 { animation: twinkle 3s infinite ease-in-out 1s; }
+      .tw-3 { animation: twinkle 2.5s infinite ease-in-out 0.5s; }
+      .ufo { animation: ufo-float 3s infinite ease-in-out; }
+    </style>
+    <linearGradient id="div-grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#3b1d60" stop-opacity="0" />
+      <stop offset="20%" stop-color="#3b1d60" stop-opacity="0.8" />
+      <stop offset="40%" stop-color="#38bdf8" stop-opacity="0.9" />
+      <stop offset="50%" stop-color="#c084fc" />
+      <stop offset="60%" stop-color="#38bdf8" stop-opacity="0.9" />
+      <stop offset="80%" stop-color="#3b1d60" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#3b1d60" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <!-- Cosmic Line -->
+  <line x1="50" y1="18" x2="810" y2="18" stroke="url(#div-grad)" stroke-width="2" stroke-linecap="round" />
+
+  <!-- Stars on line -->
+  <!-- Left Stars -->
+  <rect x="120" y="16" width="4" height="4" fill="#38bdf8" class="tw-1" />
+  <rect x="220" y="17" width="3" height="3" fill="#c084fc" class="tw-2" />
+  <polygon points="310,14 312,18 316,20 312,22 310,26 308,22 304,20 308,18" fill="#ffffff" class="tw-3" opacity="0.8" />
+
+  <!-- Right Stars -->
+  <polygon points="550,14 552,18 556,20 552,22 550,26 548,22 544,20 548,18" fill="#ffffff" class="tw-3" opacity="0.8" />
+  <rect x="640" y="17" width="3" height="3" fill="#38bdf8" class="tw-2" />
+  <rect x="740" y="16" width="4" height="4" fill="#c084fc" class="tw-1" />
+
+  <!-- Center Pixel Planet / Satellite Symbol -->
+  <g class="ufo" transform="translate(430, 18)">
+    <!-- Planet Body (Radius 8) -->
+    <circle cx="0" cy="0" r="8" fill="#130f26" stroke="#c084fc" stroke-width="2" />
+    <!-- Planet Texture Details -->
+    <rect x="-4" y="-3" width="8" height="2" fill="#38bdf8" rx="1" />
+    <rect x="-5" y="1" width="10" height="2" fill="#c084fc" rx="1" opacity="0.8" />
+    <!-- Orbit Ring -->
+    <ellipse cx="0" cy="0" rx="16" ry="4" fill="none" stroke="#38bdf8" stroke-width="1.5" stroke-dasharray="2 1" transform="rotate(-18)" />
+    <!-- Glowing Center Core -->
+    <circle cx="0" cy="0" r="1.5" fill="#ffffff" />
+  </g>
+</svg>
