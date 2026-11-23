@@ -1,7 +1,7 @@
-<!-- Habib Alfino Snake Game (Blue Protocol) -->
+<!-- Habib Alfino Pixel Art Banner (BOLDPIXELS & Sticker Style) -->
 <p align="center">
   <a href="https://habib-alfino.my.id" target="_blank">
-    <img src="./assets/snake.svg" width="100%" alt="Habib Alfino - Blue Snake Game" />
+    <img src="./assets/header.svg" width="100%" alt="Habib Alfino - BOLDPIXELS Pixel Art Banner" />
   </a>
 </p>
 
