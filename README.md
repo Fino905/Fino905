@@ -12,7 +12,7 @@
 ---
 
 <!-- Anime Sticker / Avatar di sebelah kanan -->
-<img align="center" src="./assets/sticker.png" width="130" alt="Avatar Sticker" />
+<img align="right" src="./assets/sticker.png" width="130" alt="Avatar Sticker" />
 
 <!-- Tech Stack Icons (skillicons) -->
 <p align="left">
