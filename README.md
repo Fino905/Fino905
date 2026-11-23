@@ -1,3 +1,12 @@
+<!-- Habib Alfino Blackhole Singularity Showcase (from habib-alfino.my.id) -->
+<p align="center">
+  <a href="https://habib-alfino.my.id" target="_blank">
+    <img src="./assets/blackhole.svg" width="100%" alt="Habib Alfino - Blackhole Singularity" />
+  </a>
+</p>
+
+---
+
 ### Hi 👋! My name is Fino and I'm a Developer, from Indonesia
 
 ---
@@ -29,7 +38,7 @@
   <a href="https://www.instagram.com/finofebriantohabibal/" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://discord.com" target="_blank">
+  <a href="https://discord.com/users/1269968975488487527" target="_blank">
     <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="mailto:finofebriantohabibal@gmail.com" target="_blank">
@@ -39,10 +48,4 @@
 
 <br clear="both"/>
 
-<!-- Habib Alfino Blackhole Singularity Showcase (from habib-alfino.my.id) -->
-<p align="center">
-  <a href="https://habib-alfino.my.id" target="_blank">
-    <img src="./assets/blackhole.svg" width="100%" alt="Habib Alfino - Blackhole Singularity" />
-  </a>
-</p>
  
