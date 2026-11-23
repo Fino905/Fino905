@@ -15,11 +15,11 @@
 Hello everyone, my name is Habib. I am 16 years old and a student at SMKS Brantas Karangkates. I live in Boro Village, Selorejo, Blitar Regency, East Java. In my spare time, I work on various personal projects, such as creating 3D models that I upload to my YouTube channel, Federic Parkerr. Additionally, I develop websites as a way to learn and experiment, and I have experience deploying websites using Vercel's free hosting service. 
 </p>
 
+---
+
 
 <!-- Anime Sticker / Avatar di sebelah kanan -->
 <img align="right" src="./assets/sticker.gif" width="130" alt="Avatar Sticker" />
-
----
 
 <!-- Tech Stack Icons (skillicons) -->
 <p align="left">
