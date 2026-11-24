@@ -14,7 +14,7 @@
 
 <!-- Orbital Telemetry Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/ORBITAL_STATION-SMKS_BRANTAS-0d0c1d?style=for-the-badge&logo=spacex&logoColor=38bdf8" alt="Station" />
+  <img src="https://img.shields.io/badge/ORBITAL_STATION-SMKS_BRANTAS_KARANGKATES-0d0c1d?style=for-the-badge&logo=spacex&logoColor=38bdf8" alt="Station" />
   <img src="https://img.shields.io/badge/PILOT_AGE-16_YEARS-0d0c1d?style=for-the-badge&logo=astro&logoColor=c084fc" alt="Age" />
   <img src="https://img.shields.io/badge/COORDINATES-BLITAR%2C_INDONESIA-0d0c1d?style=for-the-badge&logo=planetscale&logoColor=38bdf8" alt="Coordinates" />
   <img src="https://img.shields.io/badge/MISSION-3D_%26_WEB_DEV-0d0c1d?style=for-the-badge&logo=blender&logoColor=c084fc" alt="Mission" />
